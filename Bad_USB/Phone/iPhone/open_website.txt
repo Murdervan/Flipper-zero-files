@@ -8,7 +8,7 @@ DELAY 500
 STRING safari
 DELAY 500
 ENTER
-DELAY 1000
+DELAY 1000 
 STRING https://github.com/Murdervan/Flipper-zero-files/
 DELAY 500
 ENTER
