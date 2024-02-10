@@ -1,8 +1,8 @@
 # Flipper-zero
 >[!NOTE]
-> __JUST ALL THE FILES ON MURDERVANS FLIPPER ZERO                                                                                                                                                                                                                                                          
->I HAVE NOT TESTET ALL FILES!!                                                                                                                                                                                                                                                          
->I UPDATING FOLDERS WHEN I FIND NEW STUFF I LIKE__                                                                                                                                                                                                                                                         
+> - [x] __JUST ALL THE FILES ON MURDERVANS FLIPPER ZERO__
+> - [x] __I HAVE NOT TESTET ALL FILES!!__
+> - [x] __I UPDATING FOLDERS WHEN I FIND NEW STUFF I LIKE__                                                                                                                                                                                                                                                    
 
 > [!TIP]
 > ### My PC Setup                                                                                                                                                                                                                                                                             
