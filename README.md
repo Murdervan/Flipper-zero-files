@@ -3,8 +3,8 @@
 
 >[!NOTE]
 > - [x] __JUST ALL THE FILES ON MURDERVANS FLIPPER ZERO__
-> - [x] __I HAVE NOT TESTET ALL FILES!!__
-> - [x] __I UPDATING FOLDERS WHEN I FIND NEW STUFF I LIKE__                                                                                                                                                                                                                                                    
+> - [x] __I UPDATING FOLDERS WHEN I FIND NEW STUFF I LIKE!__
+> - [ ] __I HAVE TESTET ALL FILES__                                                                                                                                                                                                                                                    
 
 > [!TIP]
 > ### My PC Setup                                                                                                                                                                                                                                                                             
