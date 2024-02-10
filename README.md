@@ -1,6 +1,7 @@
 # Flipper-zero
-JUST ALL THE FILES ON MURDERVANS FLIPPER ZERO                                                                                                                                                                                                                                                       
+__JUST ALL THE FILES ON MURDERVANS FLIPPER ZERO                                                                                                                                                                                                                                                       
 I HAVE NOT TESTET ALL FILES!!                                                                                                                                                                                                                                                          
+I UPDATING FOLDERS WHEN I FIND NEW STUFF I LIKE__
 
 ### My PC Setup                                                                                                                                                                                                                                                                             
 __CASE__ : Fractal Design Pop Mini Air RGB                                                                                                                                                                                                                                                                               
