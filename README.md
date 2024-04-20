@@ -1,4 +1,4 @@
-# Flipper-zero
+# Flipper-zero - !!!REMEMBER REPLACE ALL LINK IN BAD-USB!!!
 <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
 >[!NOTE]
