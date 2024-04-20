@@ -2,9 +2,8 @@
 <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
 >[!NOTE]
-> - [x] __JUST ALL THE FILES ON MURDERVANS FLIPPER ZERO__
-> - [x] __I UPDATING FOLDERS WHEN I FIND NEW STUFF I LIKE!__
-> - [ ] __I HAVE TESTET ALL FILES__                                                                                                                                                                                                                                                    
+>__I HAVE NOT TESTET ALL FILES!__
+>__but almost everyone i have try works!!__                                                                                                                                                                                                                                                    
 
 > [!TIP]
 > ### My PC Setup                                                                                                                                                                                                                                                                         
