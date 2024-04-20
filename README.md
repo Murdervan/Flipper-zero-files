@@ -2,9 +2,11 @@
 <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
 >[!NOTE]
->##__!!!REMEMBER REPLACE ALL LINK IN BAD-USB!!!__
->#__I HAVE NOT TESTET ALL FILES!__
->#__but almost everyone i have try works!!__                                                                                                                                                                                                                                                    
+>## !!!REMEMBER REPLACE ALL LINK IN BAD-USB!!!
+
+># I HAVE NOT TESTET ALL FILES!
+
+># but almost everyone i have try works!!                                                                                                                                                                                                                                                  
 
 > [!TIP]
 > ### My PC Setup                                                                                                                                                                                                                                                                         
