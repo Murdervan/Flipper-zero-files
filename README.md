@@ -1,14 +1,11 @@
 # Flipper-zero
 <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
->[!NOTE]
->## !!!REMEMBER REPLACE ALL LINK IN BAD-USB!!!
-
-# I HAVE NOT TESTET ALL FILES!
-
-># But almost everyone i have try works!!                                                                                                                                                                                                                                                  
->
-
+> [!NOTE]
+> ## I HAVE NOT TESTET ALL FILES!!                                                                                                                                                                                                                                                                         
+> # But almost every files i have uploaded works!                                                                                                                                                                                                                                                                         
+> # Remember to change LINK in files (webhook, token, etc)                                                                                                                                                                                                                                                                         
+>                                                                                                                                                                                                                                                                                                                                                        
 > [!TIP]
 > ### My PC Setup                                                                                                                                                                                                                                                                         
 >__MOBO__ : ASUS PRIME H610M-A WIFI D4 Intel LGA1700 - Micro-ATX                                                                                                                                                                                                                                                                              
@@ -20,8 +17,8 @@ __SSD 1__ : Samsung V-NAND 980 NVMe M.2 1TB
 >__SSD 2__ : Samsung V-NAND 980 NVMe M.2 1TB                                                                                                                                                                                                                                                       
 >
 
-> [!IMPORTANT]                                                                                                                                                                                                                                                                               
->📁USB Drive (M:)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+> [!IMPORTANT]
+>📁USB Drive (M:)                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 └📁Crypto Wallet                                                                                                                                                                                                                                                                               
 ⠀└🪙₿TC 3CQPWWuEVtyMVk6wT1zULVwsGPyQSN7m4k                                                                                                                                                                                                                                                                               
 ⠀└💵USDC<sup> __(ERC20)__ </sup>0xE11062f6424A488EEe9F5241496785F591dcA753                                                                                                                                                                                                                                                                               
