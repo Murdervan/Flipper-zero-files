@@ -4,9 +4,9 @@
 >[!NOTE]
 >## !!!REMEMBER REPLACE ALL LINK IN BAD-USB!!!
 
-># I HAVE NOT TESTET ALL FILES!
+# I HAVE NOT TESTET ALL FILES!
 
-># but almost everyone i have try works!!                                                                                                                                                                                                                                                  
+# but almost everyone i have try works!!                                                                                                                                                                                                                                                  
 
 > [!TIP]
 > ### My PC Setup                                                                                                                                                                                                                                                                         
