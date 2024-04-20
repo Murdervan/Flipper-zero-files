@@ -1,0 +1,6 @@
+REM TITLE: Instantly shutdown windows computer
+REM Target OS: Windows 10+
+REM Author: SuperJakov (https://github.com/SuperJakov)
+GUI r 
+DELAY 1000
+STRINGLN shutdown /s /t 0
