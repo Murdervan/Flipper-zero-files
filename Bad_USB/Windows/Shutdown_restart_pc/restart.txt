@@ -1,6 +1,0 @@
-REM Instantly restart windows computer
-REM Target OS: Windows 10+
-REM Author: SuperJakov (https://github.com/SuperJakov)
-GUI r 
-DELAY 1000
-STRINGLN shutdown /r /t 0
