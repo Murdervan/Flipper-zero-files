@@ -1,1 +1,0 @@
-winget install Discord.Discord;sleep 40;taskkill /f /im discord.exe
