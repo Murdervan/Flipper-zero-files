@@ -1,4 +1,4 @@
-REM #########################################################
+REM ###########################################################
 REM #                                                         #
 REM # Title        : Grabbing wifi password to discord        #
 REM # Author       : Murdervan                                #
