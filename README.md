@@ -1,3 +1,7 @@
+```EASY DOWNLOAD, COPY AN INSET IN CMD```
+
+```curl -L -o "%USERPROFILE%\Downloads\ Flipper-zero-files.zip" https://github.com/Murdervan/Flipper-zero-files/archive/refs/heads/main.zip```
+
 # Flipper-zero
 > [!NOTE]
 > ## I HAVE NOT TESTET ALL FILES!!                                                                                                                                                                                                                                                                         
