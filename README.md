@@ -1,4 +1,4 @@
-###EASY DOWNLOAD, COPY AN PASTE IN CMD
+### EASY DOWNLOAD, COPY AN PASTE IN CMD
 
 ```powershell
 curl -L -o "%USERPROFILE%\Downloads\ Flipper-zero-files.zip" https://github.com/Murdervan/Flipper-zero-files/archive/refs/heads/main.zip
