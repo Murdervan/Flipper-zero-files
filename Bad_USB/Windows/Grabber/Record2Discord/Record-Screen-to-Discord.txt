@@ -1,7 +1,7 @@
 REM ################################################################################
 REM #                                                                              #
 REM # Title        : Record Screen to discord.                                     #
-REM # Author       : Murdervan                                                     #
+REM # Author       : Murdervan & github.com/GyanD                                  #
 REM # Link         : github.com/murdervan                                          #
 REM # Target       : Windows 10/11                                                 #
 REM #                                                                              #
