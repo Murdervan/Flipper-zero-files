@@ -1,6 +1,8 @@
-```EASY DOWNLOAD, COPY AN INSET IN CMD```
+###EASY DOWNLOAD, COPY AN PASTE IN CMD
 
-```curl -L -o "%USERPROFILE%\Downloads\ Flipper-zero-files.zip" https://github.com/Murdervan/Flipper-zero-files/archive/refs/heads/main.zip```
+```powershell
+curl -L -o "%USERPROFILE%\Downloads\ Flipper-zero-files.zip" https://github.com/Murdervan/Flipper-zero-files/archive/refs/heads/main.zip
+```
 
 # Flipper-zero
 > [!NOTE]
