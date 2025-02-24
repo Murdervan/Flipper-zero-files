@@ -7,8 +7,8 @@ REM # Target       : Windows 10                               #
 REM # Description  : This script compresses files from the    #
 REM #                user's profile folder (such as documents,#
 REM #                images, and log files) and sends them as #
-REM #                zip archives to a Discord webhook until
-REM #                all files are exfiltrated.
+REM #                zip archives to a Discord webhook until  #
+REM #                all files are exfiltrated.               #
 REM #                                                         #
 REM ###########################################################
 
