@@ -4,7 +4,7 @@ REM #                                                                           
 REM # Title        : Screenshot to discord.                                        #
 REM # Author       : Murdervan                                                     #
 REM # Link         : github.com/murdervan                                          #
-REM # Target       : Windows 10                                                    #
+REM # Target       : Windows 10/11                                                 #
 REM #                                                                              #
 REM ################################################################################
 
