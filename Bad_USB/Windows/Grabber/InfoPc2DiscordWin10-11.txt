@@ -13,10 +13,8 @@ REM ###########################################################
 
 
 
-REM SETUP
-REM replace YOUR_WEBHOOK_HERE (below) with your discord webhook.
+REM Setup for script.
 
-REM some setup for dukie script.
 DEFAULT_DELAY 100
 
 GUI r
