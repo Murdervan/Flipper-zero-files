@@ -17,6 +17,7 @@ REM ############################################################################
 
 
 REM Setup for script
+
 DEFAULT_DELAY 100
 
 REM open powershell (remove -W Hidden to show the window)
