@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://github.com/Murdervan/my-flipper-shits">
+    <img src="https://img.shields.io/github/stars/Murdervan/my-flipper-shits?style=social" alt="GitHub stars"/>
+  </a>
+</div>
+
 ### EASY DOWNLOAD, COPY AN PASTE IN CMD
 
 ```powershell
