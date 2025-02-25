@@ -3,7 +3,16 @@
     <img src="https://img.shields.io/github/stars/Murdervan/Flipper-zero-files?style=social&label=Stars" alt="GitHub stars"/>
   </a>
 </div>
-
+<div align="right">
+  <a href="https://github.com/Murdervan/Flipper-zero-files">
+    <img src="https://img.shields.io/github/forks/Murdervan/Flipper-zero-files?style=social&label=Forks" alt="GitHub forks"/>
+  </a>
+</div>
+<div align="right">
+  <a href="https://github.com/Murdervan/Flipper-zero-files/watchers">
+    <img src="https://img.shields.io/github/watchers/Murdervan/Flipper-zero-files?style=social&label=Watchers" alt="GitHub watchers"/>
+  </a>
+</div>
 ### EASY DOWNLOAD, COPY AN PASTE IN CMD
 
 ```powershell
