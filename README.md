@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="https://github.com/Murdervan/my-flipper-shits">
-    <img src="https://img.shields.io/github/stars/Murdervan/my-flipper-shits?style=social" alt="GitHub stars"/>
+  <a href="https://github.com/Murdervan/Flipper-zero-files">
+    <img src="https://img.shields.io/github/stars/Murdervan/Flipper-zero-files?style=social&label=Stars" alt="GitHub stars"/>
   </a>
 </div>
 
