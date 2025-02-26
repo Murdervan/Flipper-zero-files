@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/github/watchers/Murdervan/Flipper-zero-files?style=social&label=Watchers" alt="GitHub watchers"/>
   </a>
 </div>
+
 ### EASY DOWNLOAD, COPY AN PASTE IN CMD
 
 ```powershell
