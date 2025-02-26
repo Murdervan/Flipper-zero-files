@@ -19,6 +19,12 @@
 ```powershell
 curl -L -o "%USERPROFILE%\Downloads\ Flipper-zero-files.zip" https://github.com/Murdervan/Flipper-zero-files/archive/refs/heads/main.zip
 ```
+<div align="right">
+  
+  ### Check out my other 
+  
+  [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
+</div>
 
 # Flipper-zero
 > [!NOTE]
