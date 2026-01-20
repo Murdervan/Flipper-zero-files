@@ -14,7 +14,7 @@
   </a>
 </div>
 
-### EASY DOWNLOAD, COPY AN PASTE IN CMD
+### EASY DOWNLOAD, COPY AN PASTE IN CMD, OR
 ### WINDWOS-BUTTON + R - PASTE - RUN
 
 ```powershell
