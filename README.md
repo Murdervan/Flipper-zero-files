@@ -15,6 +15,7 @@
 </div>
 
 ### EASY DOWNLOAD, COPY AN PASTE IN CMD
+### WINDWOS-BUTTON + R - PASTE - RUN
 
 ```powershell
 curl -L -o "%USERPROFILE%\Downloads\ Flipper-zero-files.zip" https://github.com/Murdervan/Flipper-zero-files/archive/refs/heads/main.zip
